@@ -1,5 +1,7 @@
 # Video Splitter
 
+<img width="1536" height="909" alt="video-splitter" src="https://github.com/user-attachments/assets/d7a34918-3806-479d-b2fc-22c74a6353ee" />
+
 A simple desktop application for splitting video files using `ffmpeg` and a Tkinter GUI.
 
 ## Features
